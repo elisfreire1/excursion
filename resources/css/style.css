@@ -13,11 +13,29 @@ h1{
     font-family: Verdana;
     font-size: 50px;
     text-align: center;
+    font-weight: normal;
     
 }
 
 .download{
     color: aquamarine;
     font-size: 16px;
+}
 
+p{
+    font-family: Verdana;
+}
+
+.msg{
+    font-size:21px;
+    color: gray;
+}
+.slogon{
+    font-weight: 300;
+    font-size: 42;
+    color: white;
+}
+.fcopy{
+    text-align: right;
+    color: gray;
 }
